@@ -1,0 +1,1320 @@
+Uri: https://shop.maxymised.com/
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.htm
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/catalog/MM_icon_RGB.png
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\catalog\MM_icon_RGB.png
+Content Type: image/png
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\css.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/catalog/view/theme/default/stylesheet/stylesheet.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\theme\default\stylesheet\stylesheet.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/owl-carousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/assets/styles.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\assets\styles.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/assets/featherlight.min.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\assets\featherlight.min.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/index.php?route=account/register
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=account/login
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-1.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=checkout/cart
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-2.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=common/home
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-3.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/pc
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\pc.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/mac
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\mac.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/laptop-notebook
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/laptop-notebook/macs
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook\macs.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/laptop-notebook/windows
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook\windows.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/mouse
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\mouse.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/monitor
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\monitor.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/printer
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\printer.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/scanner
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\scanner.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/web-camera
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\web-camera.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/tablet
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\tablet.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/software
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\software.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/smartphone
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\smartphone.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/camera
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\camera.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test11
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test11.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test12
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test12.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test15
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test15.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test16
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test16.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test17
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test17.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test18
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test18.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test19
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test19.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test20
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test20.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test21
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test21.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test22
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test22.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test23
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test23.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test24
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test24.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test4
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test4.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test5
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test5.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test6
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test6.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test7
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test7.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test8
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test8.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/test9
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test9.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=product/product&product_id=44
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-4.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=product/product&path=57&product_id=49
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-5.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/iphone
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\iphone.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/canon-eos-5d
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\canon-eos-5d.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/macbook-air
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\macbook-air.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/samsung-galaxy-tab-10-1
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\samsung-galaxy-tab-10-1.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/about_us
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\about_us.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/delivery
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\delivery.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/privacy
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\privacy.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/terms
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\terms.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=information/contact
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-6.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=account/return/add
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-7.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=information/sitemap
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-8.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=product/manufacturer
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-9.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=account/voucher
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-10.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=product/special
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-12.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/jquery-2.1.1.min.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\jquery-2.1.1.min.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/common.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\common.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/angular/angular.min.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\angular\angular.min.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/angular/app.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\angular\app.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/MaxymiserSettings/MaxymiserSettings.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\MaxymiserSettings\MaxymiserSettings.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/js.cookie.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\js.cookie.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/assets/featherlight.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\assets\featherlight.js
+Content Type: application/javascript
+
+Uri: https://service.maxymiser.net/api/sandbox/us/sale.maxymised.com/afa546/mmapi.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\api\sandbox\us\sale.maxymised.com\afa546\mmapi.js
+Content Type: application/x-javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-PQWSD7
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\ns.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\banners\MacBookAir-1140x380.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\banners\iPhone6-1140x380.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_1-200x200.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_1-200x200.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_1-200x200.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_logo-130x100.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_logo-130x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/manufacturer/dell-130x100.png
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\manufacturer\dell-130x100.png
+Content Type: image/png
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_logo-130x100.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_logo-130x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/manufacturer/nintendo-130x100.png
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\manufacturer\nintendo-130x100.png
+Content Type: image/png
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_logo-130x100.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_logo-130x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/apple_logo-130x100.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\apple_logo-130x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.eot?v=4.1.0
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.woff?v=4.1.0
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.ttf?v=4.1.0
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.svg?v=4.1.0
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/owl-carousel/grabbing.png
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\datetimepicker\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/index.php?route=information/information/agree&information_id=3
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-13.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=account/forgotten
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-14.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/datetimepicker/moment.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\datetimepicker\moment.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\datetimepicker\bootstrap-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/owl-carousel/owl.transitions.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\owl-carousel\owl.transitions.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/index.php?route=product/compare
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-15.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/test
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\test.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/canon-eos-5d
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\canon-eos-5d.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/hp-lp3065
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\hp-lp3065.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/htc-touch-hd
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\htc-touch-hd.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/iphone
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\iphone.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/ipod-classic
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\ipod-classic.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/macbook-air
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\macbook-air.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/palm-treo-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\palm-treo-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/samsung-syncmaster-941bw
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\samsung-syncmaster-941bw.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/desktops/sony-vaio
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\sony-vaio.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=product/manufacturer/info&manufacturer_id=7
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-16.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/compaq_presario-80x80.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\compaq_presario-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/apple_cinema_30-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\apple_cinema_30-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/htc_touch_hd_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\htc_touch_hd_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_treo_pro_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_treo_pro_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_syncmaster_941bw-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_syncmaster_941bw-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/compaq_presario-300x300.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\compaq_presario-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/desktops/mac/imac
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\desktops\mac\imac.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/laptop-notebook/hp-lp3065
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook\hp-lp3065.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/laptop-notebook/macbook-air
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook\macbook-air.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/laptop-notebook/macbook-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook\macbook-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/laptop-notebook/sony-vaio
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\laptop-notebook\sony-vaio.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_2-80x80.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_2-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/component/monitor/test1
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\monitor\test1.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/monitor/test2
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\monitor\test2.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/monitor/test
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\monitor\test.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/component/monitor/samsung-syncmaster-941bw
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\component\monitor\samsung-syncmaster-941bw.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/tablet/samsung-galaxy-tab-10-1
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\tablet\samsung-galaxy-tab-10-1.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/smartphone/htc-touch-hd
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\smartphone\htc-touch-hd.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/smartphone/iphone
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\smartphone\iphone.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/smartphone/palm-treo-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\smartphone\palm-treo-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/camera/canon-eos-5d
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\camera\canon-eos-5d.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/camera/nikon-d300
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\camera\nikon-d300.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/mp3-players/ipod-classic
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\ipod-classic.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/ipod-nano
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\ipod-nano.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/ipod-shuffle
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\ipod-shuffle.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/mp3-players/ipod-touch
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\ipod-touch.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_4-80x80.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_4-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_1-228x228.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_1-228x228.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/mp3-players/test20/test25
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\mp3-players\test20\test25.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/magnific/magnific-popup.css
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\magnific\magnific-popup.css
+Content Type: text/css
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/apple
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\catalog\view\javascript\jquery\magnific\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_air_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_air_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\js\300\addthis_widget.js
+Content Type: application/javascript
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_6-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_7-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_7-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_6-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_6-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_tab_7-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_tab_7-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_6-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/test
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\test.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_6-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_6-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/apple_cinema_30-80x80.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\apple_cinema_30-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/canon
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\canon.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/logo-oracle-268x50.png
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\logo-oracle-268x50.png
+Content Type: image/png
+
+Uri: https://shop.maxymised.com/index.php?route=product/search
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-17.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/hewlett-packard
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\hewlett-packard.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/htc
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\htc.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/palm
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\palm.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/sony
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\sony.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=affiliate/login
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-11.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=affiliate/register
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-18.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=affiliate/forgotten
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-19.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/apple_cinema_30-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\apple_cinema_30-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/compaq_presario-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\compaq_presario-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_logo-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_logo-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/imac
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\imac.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_eos_5d_1-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_eos_5d_1-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/compaq_presario-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\compaq_presario-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_1-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_1-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/canon_logo-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\canon_logo-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/iphone_1-80x80.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\iphone_1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_1-80x80.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/hp-lp3065
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\hp-lp3065.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/hp_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\hp_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/htc-touch-hd
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\htc-touch-hd.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/htc_touch_hd_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\htc_touch_hd_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/htc_touch_hd_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\htc_touch_hd_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/htc_touch_hd_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\htc_touch_hd_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/htc_touch_hd_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\htc_touch_hd_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/htc_touch_hd_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\htc_touch_hd_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/ipod-classic
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\ipod-classic.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_classic_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_classic_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/palm-treo-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\palm-treo-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_treo_pro_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_treo_pro_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_treo_pro_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_treo_pro_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_treo_pro_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_treo_pro_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_treo_pro_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_treo_pro_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/palm_treo_pro_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\palm_treo_pro_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/samsung-syncmaster-941bw
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\samsung-syncmaster-941bw.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/samsung_syncmaster_941bw-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\samsung_syncmaster_941bw-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/sony-vaio
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\sony-vaio.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/sony_vaio_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\sony_vaio_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/hewlett-packard/hp-lp3065
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\hewlett-packard\hp-lp3065.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/imac_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\imac_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/macbook-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\macbook-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/macbook_pro_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\macbook_pro_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/nikon-d300
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\nikon-d300.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/nikon_d300_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\nikon_d300_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/ipod-nano
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\ipod-nano.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_nano_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_nano_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/ipod-shuffle
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\ipod-shuffle.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_shuffle_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_shuffle_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/ipod-touch
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\ipod-touch.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_1-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_7-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_7-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_6-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_5-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_2-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_3-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_4-500x500.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_7-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_7-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_6-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_6-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_5-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_5-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_2-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_2-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_3-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_3-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/image/cache/catalog/demo/ipod_touch_4-74x74.jpg
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\image\cache\catalog\demo\ipod_touch_4-74x74.jpg
+Content Type: image/jpeg
+
+Uri: https://shop.maxymised.com/apple/test
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\test.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/imac
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\imac.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/iphone
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\iphone.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/ipod-classic
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\ipod-classic.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/ipod-nano
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\ipod-nano.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/ipod-shuffle
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\ipod-shuffle.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/ipod-touch
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\ipod-touch.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/macbook-air
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\macbook-air.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/apple/macbook-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\apple\macbook-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/canon/canon-eos-5d
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\canon\canon-eos-5d.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/htc/htc-touch-hd
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\htc\htc-touch-hd.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/palm/palm-treo-pro
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\palm\palm-treo-pro.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/sony/sony-vaio
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\sony\sony-vaio.html
+Content Type: text/html
+
+Uri: https://shop.maxymised.com/index.php?route=information/information/agree&information_id=4
+File Name: C:\Downloaded Web Sites\shop.maxymised.com\index.php-20.html
+Content Type: text/html
+
