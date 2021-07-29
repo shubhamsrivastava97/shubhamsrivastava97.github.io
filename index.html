@@ -3,16 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Shoppo</title>
-    <script type="text/javascript">
-        function googleAuth(){
-            const url = "https://accounts.google.com/o/oauth2/v2/auth?" +
-                "scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontent&" +
-                "response_type=code&" +
-                "redirect_uri=https://shubhamsrivastava97.github.io/&" +
-                "client_id=554423675989-u38fd4g646q444j9kdrcr0r4k35bhdp9.apps.googleusercontent.com";
-            window.location = url;
-        }
-    </script>
+    <script type="text/javascript" src="auth.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="text/javascript" src="token.js"></script>
 </head>
 <body>
     <h1>Welcome to my Shopping website!</h1>
