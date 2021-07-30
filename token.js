@@ -3,7 +3,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const code = urlParams.get('code');
 let access_token;
 let refresh_token;
-
+let merchantId;
 const getToken = () => {
     const url = "https://oauth2.googleapis.com/token";
     const body = {
@@ -37,7 +37,7 @@ function getMerchantId(response) {
 
 function getProductList(response) {
     console.log(response);
-    const merchantId = res.data.accountIdentifiers[0].merchantId;
+    merchantId = response.data.accountIdentifiers[0].merchantId;
     console.log(merchantId);
     document.getElementById("accinfo").innerText = merchantId;
     const productapi = `https://www.googleapis.com/content/v2/${merchantId}/products`;
