@@ -11,13 +11,11 @@ const getToken = () => {
         "client_secret": "40w0RT9zORmQY1YzIm4p-Gl5",
         "scope": "https://www.googleapis.com/auth/content",
         "grant_type": "authorization_code"
-    }
+    };
     axios({
         method: 'post',
         url: url,
-        data: {
-            body
-        }
+        data: body
     })
         .then(data => console.log(data))
         .catch(err => console.log(err.response));
