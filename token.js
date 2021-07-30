@@ -38,7 +38,7 @@ function getMerchantId() {
             console.log(merchantId);
             document.getElementById("accinfo").innerText = merchantId;
         })
-        .catch(err => console.log(err.data));
+        .catch(err => console.log(err.response));
 }
 
 function getProductList() {
@@ -50,7 +50,7 @@ function getProductList() {
             console.log(res.data);
             document.getElementById("prodinfo").innerHTML = res.data.resources;
         })
-        .catch(err => console.log(err.data));
+        .catch(err => console.log(err.response));
 }
 
 getToken();
