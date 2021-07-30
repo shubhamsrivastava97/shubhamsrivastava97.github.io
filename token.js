@@ -17,7 +17,23 @@ const getToken = () => {
         url: url,
         data: body
     })
-        .then(data => console.log(data))
+        .then(access)
         .catch(err => console.log(err.response));
 }
+
+function access(response) {
+    console.log(response);
+    const access_token = response.data.access_token;
+    const refresh_token = response.data.refresh_token;
+    const merchantapi = "https://www.googleapis.com/content/v2/accounts/authinfo";
+    axios.get(merchantapi, {
+        headers: {"Authorization": `Bearer ${access_token}`}
+    })
+        .then(res => {
+            console.log(res.data);
+            document.getElementById("accinfo").innerText = res.data.entries;
+        })
+        .catch(err => console.log(err.data));
+}
+
 getToken();
