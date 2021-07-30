@@ -38,6 +38,7 @@ function getMerchantId(response) {
 function getProductList(response) {
     console.log(response);
     const merchantId = res.data.accountIdentifiers[0].merchantId;
+    console.log(merchantId);
     document.getElementById("accinfo").innerText = merchantId;
     const productapi = `https://www.googleapis.com/content/v2/${merchantId}/products`;
     axios.get(productapi, {
@@ -47,6 +48,7 @@ function getProductList(response) {
             console.log(res.data);
             document.getElementById("prodinfo").innerHTML = res.data.resources;
         })
+        .catch(err => console.log(err.data));
 }
 
 getToken();
