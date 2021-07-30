@@ -19,27 +19,29 @@ const getToken = () => {
         url: url,
         data: body
     })
-        .then(getMerchantId)
+        .then(res => {
+            console.log(res);
+            access_token = res.data.access_token;
+            refresh_token = res.data.refresh_token;
+        })
         .catch(err => console.log(err.response));
 }
 
-function getMerchantId(response) {
-    console.log(response);
-    access_token = response.data.access_token;
-    refresh_token = response.data.refresh_token;
+function getMerchantId() {
     const merchantapi = "https://www.googleapis.com/content/v2/accounts/authinfo";
     axios.get(merchantapi, {
         headers: {"Authorization": `Bearer ${access_token}`}
     })
-        .then(getProductList)
+        .then(res => {
+            console.log(res);
+            merchantId = res.data.accountIdentifiers[0].merchantId;
+            console.log(merchantId);
+            document.getElementById("accinfo").innerText = merchantId;
+        })
         .catch(err => console.log(err.data));
 }
 
-function getProductList(response) {
-    console.log(response);
-    merchantId = response.data.accountIdentifiers[0].merchantId;
-    console.log(merchantId);
-    document.getElementById("accinfo").innerText = merchantId;
+function getProductList() {
     const productapi = `https://www.googleapis.com/content/v2/${merchantId}/products`;
     axios.get(productapi, {
         headers: {"Authorization": `Bearer ${access_token}`}
@@ -52,3 +54,5 @@ function getProductList(response) {
 }
 
 getToken();
+getMerchantId();
+getProductList();
