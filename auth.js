@@ -3,7 +3,7 @@ function googleAuth(){
         "scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcontent&" +
         "response_type=code&" +
         "access_type=offline&" +
-        "redirect_uri=https://shubhamsrivastava97.github.io/product&" +
+        "redirect_uri=http://localhost:63342/shubhamsrivastava97.github.io/product.html&" +
         "client_id=554423675989-u38fd4g646q444j9kdrcr0r4k35bhdp9.apps.googleusercontent.com";
     window.location = url;
 }
