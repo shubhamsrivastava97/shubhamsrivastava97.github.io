@@ -31,7 +31,7 @@ function access(response) {
     })
         .then(res => {
             console.log(res.data);
-            document.getElementById("accinfo").innerText = res.data.accountIdentifiers[0];
+            document.getElementById("accinfo").innerText = res.data.accountIdentifiers[0].merchantId;
         })
         .catch(err => console.log(err.data));
 }
