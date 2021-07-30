@@ -8,7 +8,7 @@ const getToken = () => {
     const url = "https://oauth2.googleapis.com/token";
     const body = {
         "code": code,
-        "redirect_uri": "http://localhost:63342/shubhamsrivastava97.github.io/product.html",
+        "redirect_uri": "https://shubhamsrivastava97.github.io/product",
         "client_id": "554423675989-u38fd4g646q444j9kdrcr0r4k35bhdp9.apps.googleusercontent.com",
         "client_secret": "40w0RT9zORmQY1YzIm4p-Gl5",
         "scope": "https://www.googleapis.com/auth/content",
